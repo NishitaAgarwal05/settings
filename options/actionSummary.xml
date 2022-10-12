@@ -1,0 +1,109 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="2" l="1665571360430" />
+    </e>
+    <e n="$SelectAll">
+      <i c="1" l="1665562627908" />
+    </e>
+    <e n="$Undo">
+      <i c="6" l="1665575657108" />
+    </e>
+    <e n="CheckinProject">
+      <i c="1" l="1665571372298" />
+    </e>
+    <e n="ConfigureIcs">
+      <i c="7" l="1665566871107" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="88" l="1665576021618" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1665554444777" />
+    </e>
+    <e n="EditorLeft">
+      <i c="4" l="1665571399596" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1665562630832" />
+    </e>
+    <e n="EditorRight">
+      <i c="4" l="1665571402463" />
+    </e>
+    <e n="ExportSettings">
+      <i c="2" l="1665554442402" />
+    </e>
+    <e n="Git.Branches">
+      <i c="4" l="1665562235421" />
+    </e>
+    <e n="Git.Configure.Remotes">
+      <i c="1" l="1665568121789" />
+    </e>
+    <e n="Git.Log.Branches.Change.Branch.Filter">
+      <i c="17" l="1665572350479" />
+    </e>
+    <e n="Git.Pull">
+      <i c="6" l="1665572185382" />
+    </e>
+    <e n="ResetToMySettings">
+      <i c="1" l="1665565206653" />
+    </e>
+    <e n="ResetToTheirsSettings">
+      <i c="4" l="1665567036346" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1665489152442" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1665572607728" />
+    </e>
+    <e n="ShowSettings">
+      <i c="33" l="1665572767875" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1665489392205" />
+    </e>
+    <e n="Synchronize">
+      <i c="1" l="1665566268717" />
+    </e>
+    <e n="TabList">
+      <i c="3" l="1665574547314" />
+    </e>
+    <e n="Vcs.Push">
+      <i c="3" l="1665571446609" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1665488676479" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="1" l="1665495270813" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+      <i c="2" l="1665562070644" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="3" l="1665570229780" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="1" l="1665571362955" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1665566949694" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$CheckoutAsNewBranch">
+      <i c="2" l="1665562268084" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
+      <i c="5" l="1665572331719" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$DeleteAction">
+      <i c="3" l="1665562745695" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$RemoteBranchActions$CheckoutRemoteBranchAction">
+      <i c="3" l="1665572118871" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$ShowDiffWithBranchAction">
+      <i c="2" l="1665562721691" />
+    </e>
+  </component>
+</application>
