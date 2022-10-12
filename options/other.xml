@@ -1,0 +1,61 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2G2NUfapNQxasfJwKvnu3zzGjrl">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2G2NgOC8RjeuLGhAQHrDJGgFhwu">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "NextRunPlatformUpdateBuild": "IC-221.6008.13/2022.1.4",
+    "NextRunPlatformUpdateVersion": "2022.1.4",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "IC-221.5080.210-a1f5603c97895fa52138c42a6997c6780bf295e3cc98624ee10615517a80f702",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "IC-221.5080.210",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "defaultJdkConfigured": "true",
+    "eclipse.projects.detected": "",
+    "file.gist.reindex.count": "7",
+    "fileTypeChangedCounter": "1",
+    "got.it.tooltip.cwm.invitation.notification": "1",
+    "got.it.tooltip.empty.project.create.file": "1",
+    "gotit.previous.run": "IC-221.5080.210",
+    "ide.memory.adjusted": "true",
+    "ide.updates.whats.new.shown.for": "221",
+    "installed.kotlin.plugin.version": "221-1.6.20-release-285-IJ5080.210",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/Users/Admin/Downloads/settings.zip",
+    "project.wizard.group": "newWizard.com.intellij.ide.wizard.NewEmptyProjectBuilder",
+    "registry.to.advanced.settings.migration.build": "IC-221.5080.210",
+    "selected.color.option.type": "DEFAULT_BRACES",
+    "settings.code.style.selected.tab.EditorConfig": "Wrapping and Braces",
+    "settings.code.style.selected.tab.JAVA": "Wrapping and Braces",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "C:/Users/Admin/Downloads/settings.zip"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

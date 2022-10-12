@@ -1,0 +1,43 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="38" l="1665584304500" />
+    </e>
+    <e n="EditorEnter">
+      <i c="1" l="1665585157118" />
+    </e>
+    <e n="EditorTab">
+      <i c="1" l="1665583284893" />
+    </e>
+    <e n="FileChooser.GotoDesktop">
+      <i c="1" l="1665582675662" />
+    </e>
+    <e n="FileChooser.GotoHome">
+      <i c="1" l="1665582685722" />
+    </e>
+    <e n="ImportSettings">
+      <i c="2" l="1665583019339" />
+    </e>
+    <e n="ManageRecentProjects">
+      <i c="1" l="1665582744657" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1665582758515" />
+    </e>
+    <e n="ShowSettings">
+      <i c="3" l="1665583620797" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1665582727496" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="2" l="1665582667359" />
+    </e>
+    <e n="com.intellij.ide.ProjectGroupActionGroup">
+      <i c="1" l="1665582747758" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="1" l="1665582826739" />
+    </e>
+  </component>
+</application>
