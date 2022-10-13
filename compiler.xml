@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="taskmgmt-platform-engine" />
+        <module name="taskmgmt-platform-maint-api" />
+        <module name="taskmgmt-platform-security" />
+        <module name="taskmgmt-platform-security-dev" />
+        <module name="taskmgmt-platform-api" />
+        <module name="taskmgmt-platform-engine-api" />
+        <module name="taskmgmt-platform-core" />
+        <module name="taskmgmt-platform-persistence" />
+        <module name="taskmgmt-platform-maint-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="taskmgmt-platform" target="17" />
+      <module name="taskmgmt-platform-api" target="17" />
+      <module name="taskmgmt-platform-commons" target="17" />
+      <module name="taskmgmt-platform-core" target="17" />
+      <module name="taskmgmt-platform-engine" target="17" />
+      <module name="taskmgmt-platform-engine-api" target="17" />
+      <module name="taskmgmt-platform-maint-api" target="17" />
+      <module name="taskmgmt-platform-maint-core" target="17" />
+      <module name="taskmgmt-platform-maintenance" target="17" />
+      <module name="taskmgmt-platform-parent" target="17" />
+      <module name="taskmgmt-platform-persistence" target="17" />
+      <module name="taskmgmt-platform-security" target="17" />
+      <module name="taskmgmt-platform-security-dev" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="taskmgmt-platform" options="" />
+      <module name="taskmgmt-platform-api" options="-parameters" />
+      <module name="taskmgmt-platform-core" options="-parameters" />
+      <module name="taskmgmt-platform-engine" options="-parameters" />
+      <module name="taskmgmt-platform-engine-api" options="-parameters" />
+      <module name="taskmgmt-platform-maint-api" options="-parameters" />
+      <module name="taskmgmt-platform-maint-core" options="-parameters" />
+      <module name="taskmgmt-platform-maintenance" options="-parameters" />
+      <module name="taskmgmt-platform-parent" options="" />
+      <module name="taskmgmt-platform-persistence" options="-parameters" />
+      <module name="taskmgmt-platform-security" options="-parameters" />
+      <module name="taskmgmt-platform-security-dev" options="-parameters" />
+    </option>
+  </component>
+</project>
