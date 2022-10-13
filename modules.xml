@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/main.iml" filepath="$PROJECT_DIR$/.idea/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskmgmt-platform/taskmgmt-platform.iml" filepath="$PROJECT_DIR$/taskmgmt-platform/taskmgmt-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskmgmt-platform/api/taskmgmt-platform-api.iml" filepath="$PROJECT_DIR$/taskmgmt-platform/api/taskmgmt-platform-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskmgmt-platform-commons/taskmgmt-platform-commons.iml" filepath="$PROJECT_DIR$/taskmgmt-platform-commons/taskmgmt-platform-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskmgmt-platform/core/taskmgmt-platform-core.iml" filepath="$PROJECT_DIR$/taskmgmt-platform/core/taskmgmt-platform-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskmgmt-platform-commons/engine/taskmgmt-platform-engine.iml" filepath="$PROJECT_DIR$/taskmgmt-platform-commons/engine/taskmgmt-platform-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskmgmt-platform-commons/engine-api/taskmgmt-platform-engine-api.iml" filepath="$PROJECT_DIR$/taskmgmt-platform-commons/engine-api/taskmgmt-platform-engine-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskmgmt-platform-client/api/taskmgmt-platform-maint-api.iml" filepath="$PROJECT_DIR$/taskmgmt-platform-client/api/taskmgmt-platform-maint-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskmgmt-platform-client/core/taskmgmt-platform-maint-core.iml" filepath="$PROJECT_DIR$/taskmgmt-platform-client/core/taskmgmt-platform-maint-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskmgmt-platform-client/taskmgmt-platform-maintenance.iml" filepath="$PROJECT_DIR$/taskmgmt-platform-client/taskmgmt-platform-maintenance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskmgmt-platform-commons/parent/taskmgmt-platform-parent.iml" filepath="$PROJECT_DIR$/taskmgmt-platform-commons/parent/taskmgmt-platform-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskmgmt-platform-commons/persistence/taskmgmt-platform-persistence.iml" filepath="$PROJECT_DIR$/taskmgmt-platform-commons/persistence/taskmgmt-platform-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskmgmt-platform-commons/security/taskmgmt-platform-security.iml" filepath="$PROJECT_DIR$/taskmgmt-platform-commons/security/taskmgmt-platform-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskmgmt-platform-commons/security-dev/taskmgmt-platform-security-dev.iml" filepath="$PROJECT_DIR$/taskmgmt-platform-commons/security-dev/taskmgmt-platform-security-dev.iml" />
+    </modules>
+  </component>
+</project>

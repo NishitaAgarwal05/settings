@@ -1,5 +1,11 @@
-<application>
-  <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/taskmgmt-platform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/taskmgmt-platform-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/taskmgmt-platform-client-commons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/taskmgmt-platform-commons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/taskmgmt-platform-ide-settings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/taskmgmt-platform-intellij-settings" vcs="Git" />
   </component>
-</application>
+</project>
