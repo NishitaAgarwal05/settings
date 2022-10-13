@@ -1,0 +1,6 @@
+<application>
+  <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="C:/devon-taskmgmt/software/node/node.exe" excluded="true" />
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" excluded="true" />
+  </component>
+</application>
